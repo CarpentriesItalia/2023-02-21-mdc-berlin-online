@@ -81,6 +81,9 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
+<h2>About</h2>
+The focus of this workshop is on working with genomics data, and data management and analysis for genomics research, including best practices for organization of bioinformatics projects and data, use of command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using cloud computing.
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
